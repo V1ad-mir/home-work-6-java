@@ -36,21 +36,5 @@ public class Laptop {
 
     }
 
-//    @Override
-//    public int hashCode() {
-//        return nameLaptop.hashCode();
-//    }
-//
-//    @Override
-//    public boolean equals(Object obj) {
-//        System.out.println(obj);
-//        if (this == obj)
-//            return true;
-//        if (obj == null)
-//            return false;
-//        Laptop laptop = (Laptop) obj;
-//        return  laptop.nameLaptop.equalsIgnoreCase(nameLaptop);
-////                && sizeDisplay <= laptop.sizeDisplay && ram <= laptop.ram
-////                && rom <= laptop.rom && nameCpu.equalsIgnoreCase(laptop.nameCpu) && nameOs.equals(laptop.nameOs);
-//    }
+
 }
